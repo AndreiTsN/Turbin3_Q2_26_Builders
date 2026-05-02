@@ -1,0 +1,9 @@
+# Rust
+target/
+
+# IDE
+
+.vscode/
+
+# OS
+Thumbs.db
