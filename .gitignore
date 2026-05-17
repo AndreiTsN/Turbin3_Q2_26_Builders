@@ -7,3 +7,9 @@ target/
 
 # OS
 Thumbs.db
+
+# solana keys
+.keys/
+**/*-keypair.json
+
+test-ledger/

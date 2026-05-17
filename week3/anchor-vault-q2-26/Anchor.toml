@@ -1,0 +1,19 @@
+[toolchain]
+anchor_version = "1.0.2"
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+anchor_vault_q2_26 = "Q5NNzft9B5M5pvRnACoRMYsMy4EacadXxnJ2yZEw854"
+
+[provider]
+cluster = "localnet"
+wallet = "../../.keys/turbin3_q2_26_dev.json"
+
+[scripts]
+test = "cargo test"
+
+[hooks]
