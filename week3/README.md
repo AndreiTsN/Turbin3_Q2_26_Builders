@@ -41,7 +41,7 @@ Test Result
 
 Test result screenshot:
 
-![Test result](<img src="anchor-vault-q2-26/assets/vault_litesmv_test_results.png" width="900" />)
+<img src="anchor-vault-q2-26/assets/vault_litesmv_test_results.png" width="900" />
 
 Run Tests
 
