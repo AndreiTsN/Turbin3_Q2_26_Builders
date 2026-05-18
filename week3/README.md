@@ -41,7 +41,7 @@ Test Result
 
 Test result screenshot:
 
-<img src="week3/anchor-vault-q2-26/programs/anchor-vault-q2-26/assets/vault_litesmv_test_results.png" width="900" />
+<img src="./anchor-vault-q2-26/programs/anchor-vault-q2-26/assets/vault_litesmv_test_results.png" width="900" />
 
 Run Tests
 
