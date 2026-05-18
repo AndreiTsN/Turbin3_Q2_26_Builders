@@ -34,13 +34,14 @@ LiteSVM is used for testing the program locally.
 
 The test covers the positive flow:
 
-```text
+
 initialize → deposit → withdraw → close
 
 Test Result
 
 Test result screenshot:
-![Test result](./anchor-vault-q2-26/assets/vault_litesvm_test_results.png)
+
+![Test result](./anchor-vault-q2-26/assets/vault_litesmv_test_results.png)
 
 Run Tests
 
