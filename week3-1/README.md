@@ -38,7 +38,7 @@ The project includes TypeScript integration tests for the main successful scenar
 
 Test result:
 
-![TypeScript test results](./assets/ts_tests_resutls.png)
+<img src="./assets/ts_tests_resutls.png" width="900" />
 
 ## Tech Stack
 
