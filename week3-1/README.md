@@ -38,7 +38,7 @@ The project includes TypeScript integration tests for the main successful scenar
 
 Test result:
 
-<img src="./assets/ts_tests_resutls.png" width="900" />
+<img src="./anchor-escrow-q2-26/assets/ts_tests_resutls.png" width="900" />
 
 ## Tech Stack
 
