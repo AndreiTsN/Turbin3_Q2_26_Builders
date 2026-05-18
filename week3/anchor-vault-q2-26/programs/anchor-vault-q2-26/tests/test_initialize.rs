@@ -87,8 +87,8 @@ fn test_initialize_deposit_withdraw_close() {
         program_id: anchor_vault_q2_26::id(),
         accounts: anchor_vault_q2_26::accounts::Deposit {
             user,
-            vault_state: vault_state_pda,
             vault: vault_pda,
+            vault_state: vault_state_pda,
             system_program: SYSTEM_PROGRAM_ID,
         }
         .to_account_metas(None),
